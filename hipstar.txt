@@ -1,1 +1,3 @@
-Lorem Ipsum. Hello world.
+Lorem Ipsum. Hello world. New text.
+
+Again new text.
